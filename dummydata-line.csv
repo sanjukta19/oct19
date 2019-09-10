@@ -1,46 +1,18 @@
-Customername,line1,line2
-Vueling (47),2700,1900
-Delta (100),2700,1900
-Swiss (15),2700,1900
-Swiss (15),2700,1900
-Jet Blue (45),2700,1900
-ACG (8),2700,1900
-ALC (26),2700,1900
-MEA (11),2700,1900
-Flynas (60),2700,1900
-Tata Sia (13),2700,1900
-Juneyao (28),2700,1900
-Juneyao (28),2700,1900
-China Exp (29),2700,1900
-Jetsmart (70),2700,1900
-Jetsmart (70),2700,1900
-Aegean (50),2700,1900
-Aegean (50),2700,1900
-ALAFCO (30),2700,1900
-ALAFCO (30),2700,1900
-CDB (45),2700,1900
-VivaAerobus (41),2700,1900
-Sichuan (8),2700,1900
-Peach (10),2700,1900
-Peach (10),2700,1900
-Kuwait (15),2700,1900
-Macquarie (20),2700,1900
-Frontier (134),2700,1900
-DubaiAerospace (120),3000,1900
-Green Africa (50),3000,1900
-Norwegian (50),3000,1900
-Norwegian (50),3000,1900
-Air France (50),3000,1900
-Vietjet (50),3000,1900
-SaudiGulf (10),3000,
-Qatar (50),3000,
-Qatar (50),3000,
-Azul (30),3000,
-GoAir (72),3000,
-Volaris (80),3000,
-Royal Jordanian (6),3000,
-Saudia (35),3000,
-SMBC (20),3000,
-SAS (35),3000,
-Avolon (20),3000,
-COLORFUL GUIZHOU (20),3000,
+Customername,bar,line1,line2
+Vueling (47),106,1,1
+Delta (100),113,2,2
+Swiss (15),119,3,3
+Swiss (15),120,4,4
+Jet Blue (45),100,5,5
+ACG (8),110,6,6
+ALC (26),110,7,7
+MEA (11),109,8,8
+Flynas (60),109,9,9
+Tata Sia (13),108,10,10
+Juneyao (28),108,11,11
+Juneyao (28),107,12,12
+China Exp (29),107,13,13
+Jetsmart (70),106,14,14
+Jetsmart (70),106,15,15
+Aegean (50),105,16,16
+Aegean (50),105,17,17
