@@ -1,11 +1,4 @@
-<script src="https://d3js.org/d3.v4.min.js"></script>
 
-
-
-
-
-<script>
-  
 
 function getTextWidth(text, fontSize, fontName) 
 
@@ -506,6 +499,3 @@ var state = svg.selectAll(".state")
          return "translate(" + ((width) / 2 - thisWidth / 2) + ",0)";
         })
 
-
-  
-</script>
